@@ -1,2 +1,4 @@
 hello iam vishnu
 iam from innomatics research labs
+iam pursuing data science course
+i completed data analyst course
